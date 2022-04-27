@@ -1,0 +1,10 @@
+#/home/iipr/.py-envs/py-3.8/lib/python3.8/site-packages/ipykernel_launcher.py -f /home/iipr/.local/share/jupyter/runtime/kernel-d80e2c8a-a642-4647-80b1-fa11ddf6c352.json
+# GMT Wed Apr 27 11:00:24 2022
+# 
+0 1 2 3 4 5 6
+1 2 3 4 5 6
+2 3 4 5 6
+3 4 5 6
+4 5 6
+5 6
+6

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <graph edgedefault="undirected">
+        <node id="Madrid">
+            <data key="label">Madrid</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-192.94382</data>
+            <data key="y">-87.08485</data>
+        </node>
+        <node id="Castilla y León">
+            <data key="label">Castilla y León</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-194.73749</data>
+            <data key="y">-442.60654</data>
+        </node>
+        <node id="Extremadura">
+            <data key="label">Extremadura</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">75.7138</data>
+            <data key="y">-210.51697</data>
+        </node>
+        <node id="Castilla la Mancha">
+            <data key="label">Castilla la Mancha</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">106.734</data>
+            <data key="y">305.66275</data>
+        </node>
+        <node id="Aragón">
+            <data key="label">Aragón</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">2.4984076</data>
+            <data key="y">-86.90382</data>
+        </node>
+        <node id="La Rioja">
+            <data key="label">La Rioja</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">270.17572</data>
+            <data key="y">284.3132</data>
+        </node>
+        <node id="Cantabria">
+            <data key="label">Cantabria</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">301.98157</data>
+            <data key="y">495.09293</data>
+        </node>
+        <node id="Asturias">
+            <data key="label">Asturias</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-317.09796</data>
+            <data key="y">317.01443</data>
+        </node>
+        <node id="Galicia">
+            <data key="label">Galicia</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-218.21524</data>
+            <data key="y">-472.41174</data>
+        </node>
+        <node id="Islas Canarias">
+            <data key="label">Islas Canarias</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-211.08804</data>
+            <data key="y">438.87375</data>
+        </node>
+        <node id="Andalucía">
+            <data key="label">Andalucía</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">112.10589</data>
+            <data key="y">-240.87341</data>
+        </node>
+        <node id="Murcia">
+            <data key="label">Murcia</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-108.464424</data>
+            <data key="y">136.03256</data>
+        </node>
+        <node id="Valencia">
+            <data key="label">Valencia</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">36.981136</data>
+            <data key="y">-105.17683</data>
+        </node>
+        <node id="Islas Baleares">
+            <data key="label">Islas Baleares</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">217.2887</data>
+            <data key="y">-293.99405</data>
+        </node>
+        <node id="Cataluña">
+            <data key="label">Cataluña</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">367.64447</data>
+            <data key="y">87.18612</data>
+        </node>
+        <node id="Navarra">
+            <data key="label">Navarra</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-355.7132</data>
+            <data key="y">-331.27115</data>
+        </node>
+        <node id="País Vasco">
+            <data key="label">País Vasco</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">107.13653</data>
+            <data key="y">206.66367</data>
+        </node>
+        <edge id="0" source="Madrid" target="Castilla y León">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="1" source="Madrid" target="Castilla la Mancha">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="2" source="Castilla y León" target="Extremadura">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="3" source="Castilla y León" target="Castilla la Mancha">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="4" source="Castilla y León" target="Aragón">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="5" source="Castilla y León" target="La Rioja">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="6" source="Castilla y León" target="País Vasco">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="7" source="Castilla y León" target="Cantabria">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="8" source="Castilla y León" target="Asturias">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="9" source="Castilla y León" target="Galicia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="10" source="Extremadura" target="Castilla la Mancha">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="11" source="Extremadura" target="Andalucía">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="12" source="Castilla la Mancha" target="Andalucía">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="13" source="Castilla la Mancha" target="Murcia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="14" source="Castilla la Mancha" target="Valencia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="15" source="Castilla la Mancha" target="Aragón">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="16" source="Aragón" target="Valencia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="17" source="Aragón" target="Cataluña">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="18" source="Aragón" target="Navarra">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="19" source="Aragón" target="La Rioja">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="20" source="La Rioja" target="Navarra">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="21" source="La Rioja" target="País Vasco">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="22" source="Cantabria" target="Asturias">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="23" source="Cantabria" target="País Vasco">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="24" source="Asturias" target="Galicia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="25" source="Andalucía" target="Murcia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="26" source="Murcia" target="Valencia">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="27" source="Valencia" target="Cataluña">
+            <data key="weight">1.0</data>
+        </edge>
+        <edge id="28" source="Navarra" target="País Vasco">
+            <data key="weight">1.0</data>
+        </edge>
+    </graph>
+</graphml>

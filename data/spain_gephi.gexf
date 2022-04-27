@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2022-04-26">
+    <creator>Gephi 0.9.3</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="Madrid" label="Madrid">
+        <viz:size value="10.0"/>
+        <viz:position x="-283.1391" y="-37.501957"/>
+      </node>
+      <node id="Castilla y León" label="Castilla y León">
+        <viz:size value="10.0"/>
+        <viz:position x="-486.34457" y="73.118576"/>
+      </node>
+      <node id="Extremadura" label="Extremadura">
+        <viz:size value="10.0"/>
+        <viz:position x="-603.6798" y="-170.2595"/>
+      </node>
+      <node id="Castilla la Mancha" label="Castilla la Mancha">
+        <viz:size value="10.0"/>
+        <viz:position x="-286.63074" y="-242.13377"/>
+      </node>
+      <node id="Aragón" label="Aragón">
+        <viz:size value="10.0"/>
+        <viz:position x="30.998938" y="-90.192474"/>
+      </node>
+      <node id="La Rioja" label="La Rioja">
+        <viz:size value="10.0"/>
+        <viz:position x="-21.817713" y="142.79245"/>
+      </node>
+      <node id="Cantabria" label="Cantabria">
+        <viz:size value="10.0"/>
+        <viz:position x="-189.44298" y="490.87982"/>
+      </node>
+      <node id="Asturias" label="Asturias">
+        <viz:size value="10.0"/>
+        <viz:position x="-358.35806" y="501.37155"/>
+      </node>
+      <node id="Galicia" label="Galicia">
+        <viz:size value="10.0"/>
+        <viz:position x="-677.0244" y="427.9535"/>
+      </node>
+      <node id="Islas Canarias" label="Islas Canarias">
+        <viz:size value="10.0"/>
+        <viz:position x="-909.3036" y="-566.0475"/>
+      </node>
+      <node id="Andalucía" label="Andalucía">
+        <viz:size value="10.0"/>
+        <viz:position x="-455.07724" y="-406.31705"/>
+      </node>
+      <node id="Murcia" label="Murcia">
+        <viz:size value="10.0"/>
+        <viz:position x="-283.58932" y="-493.085"/>
+      </node>
+      <node id="Valencia" label="Valencia">
+        <viz:size value="10.0"/>
+        <viz:position x="-55.16036" y="-395.49094"/>
+      </node>
+      <node id="Islas Baleares" label="Islas Baleares">
+        <viz:size value="10.0"/>
+        <viz:position x="410.91953" y="-122.030685"/>
+      </node>
+      <node id="Cataluña" label="Cataluña">
+        <viz:size value="10.0"/>
+        <viz:position x="119.34282" y="-333.97742"/>
+      </node>
+      <node id="Navarra" label="Navarra">
+        <viz:size value="10.0"/>
+        <viz:position x="191.34816" y="193.87743"/>
+      </node>
+      <node id="País Vasco" label="País Vasco">
+        <viz:size value="10.0"/>
+        <viz:position x="13.18604" y="378.5739"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Madrid" target="Castilla y León"/>
+      <edge id="1" source="Madrid" target="Castilla la Mancha"/>
+      <edge id="2" source="Castilla y León" target="Extremadura"/>
+      <edge id="3" source="Castilla y León" target="Castilla la Mancha"/>
+      <edge id="4" source="Castilla y León" target="Aragón"/>
+      <edge id="5" source="Castilla y León" target="La Rioja"/>
+      <edge id="6" source="Castilla y León" target="País Vasco"/>
+      <edge id="7" source="Castilla y León" target="Cantabria"/>
+      <edge id="8" source="Castilla y León" target="Asturias"/>
+      <edge id="9" source="Castilla y León" target="Galicia"/>
+      <edge id="10" source="Extremadura" target="Castilla la Mancha"/>
+      <edge id="11" source="Extremadura" target="Andalucía"/>
+      <edge id="12" source="Castilla la Mancha" target="Andalucía"/>
+      <edge id="13" source="Castilla la Mancha" target="Murcia"/>
+      <edge id="14" source="Castilla la Mancha" target="Valencia"/>
+      <edge id="15" source="Castilla la Mancha" target="Aragón"/>
+      <edge id="16" source="Aragón" target="Valencia"/>
+      <edge id="17" source="Aragón" target="Cataluña"/>
+      <edge id="18" source="Aragón" target="Navarra"/>
+      <edge id="19" source="Aragón" target="La Rioja"/>
+      <edge id="20" source="La Rioja" target="Navarra"/>
+      <edge id="21" source="La Rioja" target="País Vasco"/>
+      <edge id="22" source="Cantabria" target="Asturias"/>
+      <edge id="23" source="Cantabria" target="País Vasco"/>
+      <edge id="24" source="Asturias" target="Galicia"/>
+      <edge id="25" source="Andalucía" target="Murcia"/>
+      <edge id="26" source="Murcia" target="Valencia"/>
+      <edge id="27" source="Valencia" target="Cataluña"/>
+      <edge id="28" source="Navarra" target="País Vasco"/>
+    </edges>
+  </graph>
+</gexf>

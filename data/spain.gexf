@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-04-27">
+    <creator>NetworkX 2.6.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Madrid" label="Madrid" />
+      <node id="Castilla y León" label="Castilla y León" />
+      <node id="Extremadura" label="Extremadura" />
+      <node id="Castilla la Mancha" label="Castilla la Mancha" />
+      <node id="Aragón" label="Aragón" />
+      <node id="La Rioja" label="La Rioja" />
+      <node id="Cantabria" label="Cantabria" />
+      <node id="Asturias" label="Asturias" />
+      <node id="Galicia" label="Galicia" />
+      <node id="Islas Canarias" label="Islas Canarias" />
+      <node id="Andalucía" label="Andalucía" />
+      <node id="Murcia" label="Murcia" />
+      <node id="Valencia" label="Valencia" />
+      <node id="Islas Baleares" label="Islas Baleares" />
+      <node id="Cataluña" label="Cataluña" />
+      <node id="Navarra" label="Navarra" />
+      <node id="País Vasco" label="País Vasco" />
+    </nodes>
+    <edges>
+      <edge source="Madrid" target="Castilla y León" id="0" />
+      <edge source="Madrid" target="Castilla la Mancha" id="1" />
+      <edge source="Castilla y León" target="Extremadura" id="2" />
+      <edge source="Castilla y León" target="Castilla la Mancha" id="3" />
+      <edge source="Castilla y León" target="Aragón" id="4" />
+      <edge source="Castilla y León" target="La Rioja" id="5" />
+      <edge source="Castilla y León" target="País Vasco" id="6" />
+      <edge source="Castilla y León" target="Cantabria" id="7" />
+      <edge source="Castilla y León" target="Asturias" id="8" />
+      <edge source="Castilla y León" target="Galicia" id="9" />
+      <edge source="Extremadura" target="Castilla la Mancha" id="10" />
+      <edge source="Extremadura" target="Andalucía" id="11" />
+      <edge source="Castilla la Mancha" target="Andalucía" id="12" />
+      <edge source="Castilla la Mancha" target="Murcia" id="13" />
+      <edge source="Castilla la Mancha" target="Valencia" id="14" />
+      <edge source="Castilla la Mancha" target="Aragón" id="15" />
+      <edge source="Aragón" target="Valencia" id="16" />
+      <edge source="Aragón" target="Cataluña" id="17" />
+      <edge source="Aragón" target="Navarra" id="18" />
+      <edge source="Aragón" target="La Rioja" id="19" />
+      <edge source="La Rioja" target="Navarra" id="20" />
+      <edge source="La Rioja" target="País Vasco" id="21" />
+      <edge source="Cantabria" target="Asturias" id="22" />
+      <edge source="Cantabria" target="País Vasco" id="23" />
+      <edge source="Asturias" target="Galicia" id="24" />
+      <edge source="Andalucía" target="Murcia" id="25" />
+      <edge source="Murcia" target="Valencia" id="26" />
+      <edge source="Valencia" target="Cataluña" id="27" />
+      <edge source="Navarra" target="País Vasco" id="28" />
+    </edges>
+  </graph>
+</gexf>
